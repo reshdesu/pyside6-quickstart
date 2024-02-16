@@ -4,6 +4,7 @@ Video:
 (https://youtu.be/t1IddHSuZE4?si=PeWgoYc3xLflGuo6
 """
 
+# import base classes for pyside6 API
 from PySide6.QtWidgets import QApplication, QMainWindow, QPushButton
 
 # initialize the app
