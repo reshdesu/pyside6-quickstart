@@ -1,3 +1,9 @@
+"""
+This tutorial was around understanding the basic concepts of the pyside6 API
+Video: 
+(https://youtu.be/t1IddHSuZE4?si=PeWgoYc3xLflGuo6
+"""
+
 from PySide6.QtWidgets import QApplication, QMainWindow, QPushButton
 
 # initialize the app

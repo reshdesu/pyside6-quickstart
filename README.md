@@ -16,3 +16,5 @@ The motivation behind this project is to delve into the PySide6 library for deve
 
 1. [quickstart_1](https://youtu.be/t1IddHSuZE4?si=PeWgoYc3xLflGuo6)
 2. [quickstart_2](https://youtu.be/K1GJqHPd3Lk?si=RiwmIRS-vw1och43)
+3. [quickstart_3](https://youtu.be/SVIdMtXDEdc?si=FJ0hPymEtEQKJYRM)
+4. [quickstart_4](https://youtu.be/xKIPPZMP9y4?si=gIed0kMJkpXMEuZS)
